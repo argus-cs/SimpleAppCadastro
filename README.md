@@ -22,5 +22,7 @@ Simples Aplicação de cadastro de alunos utilizando [Angular-Material](https://
     npm start || yarn start    
   ``
   
+  Abra o seu navegador no *'ou click no link'* [http://localhost:3000/](http://localhost:3000/)
+   
   ## Ajuda
     Se precisar de ajuda use o [F.A.Q](https://github.com/augusto-santos/SimpleAppCadastro/wiki/F.A.Q) ou se achar algum problema relate [aqui](https://github.com/augusto-santos/SimpleAppCadastro/issues), *Obrigado.
