@@ -7,19 +7,25 @@ Simples Aplicação de cadastro de alunos utilizando [Angular-Material](https://
   Faça o *clone* do repositorio com o comando abaixo:
   
 ``
+
   git clone https://github.com/augusto-santos/SimpleAppCadastro && cd SimpleAppCadastro
+  
 ``
 
   Use o [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/pt-BR/) para instalar as dependências da aplicação:
   
 ``
+
   npm install || yarn install
+  
 ``
 
   Para iniciar a aplicação use o comando:
   
   ``
+  
     npm start || yarn start
+    
   ``
   
   ## Ajuda
