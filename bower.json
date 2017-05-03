@@ -1,0 +1,11 @@
+{
+  "name": "cadastro-app",
+  "description": "cadastro de alunos em uma aplicação.",
+  "main": "",
+  "authors": [
+    "Argus <augusto_santos55@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
